@@ -6,3 +6,6 @@ git branch -M main
 git remote add origin https://github.com/AlexSwanRu/HomeTask.git
 git push -u origin main
 ## Git clone
+hgfhgfh
+fgfdg
+dfggd
