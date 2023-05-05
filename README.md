@@ -1,15 +1,9 @@
-echo "# HomeTask" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/AlexSwanRu/HomeTask.git
-git push -u origin main
+
+
 ## Git clone
-hgfhgfh
-fgfdg
-dfggd
+
 ОСНОВНЫЕ ТЕРМИНЫ
+
 Репозиторий — каталог файловой системы, в котором находятся: файлы конфигурации, файлы журналов операций, выполняемых над репозиторием, индекс расположения файлов и хранилище, содержащее сами контролируемые файлы.
 
 Локальный репозиторий — репозиторий, расположенный на локальном компьютере разработчика в каталоге. Именно в нём происходит разработка и фиксация изменений, которые отправляются на удаленный репозиторий.
@@ -39,11 +33,15 @@ dfggd
 
 
 
-![](gikbrainz.jpg)
+![](Geek.jpg)
 
 <font color = #DC143DC size = 6> Ученье -свет, неученье потёмки !!! Век живи, век учись и дураком помрёшь!!!</font>
 
-![](program.png)
+![](programmist.jpg)
+
+
+
+
 
 <div align="center"
 
